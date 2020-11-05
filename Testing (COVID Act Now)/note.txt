@@ -1,0 +1,3 @@
+COVID Act Now -- i had to register with the site to get an API key.  This link contains mine.
+
+https://api.covidactnow.org/v2/counties.timeseries.csv?apiKey=6d4c5c9902df411197b758c777d42993
