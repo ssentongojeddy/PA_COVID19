@@ -7,7 +7,7 @@ other potential predictors.
 
 ### Cases
 
-- COVID-19 case data for PA by county via John's Hopkins University.  County cases for all of US found at https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv
+- COVID-19 case data for PA by county via John's Hopkins University.  County cases for all of US found on [JHU Github](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv)
 
 
 ### Covariates
