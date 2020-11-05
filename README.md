@@ -7,9 +7,7 @@ other potential predictors.
 
 ### Cases
 
-- DATASET WITH LINK TO MAIN SOURCE  
-  - SHORT DESCRIPTION 
-  - LINK TO REPOSITORY LOCATION
+- One sentence description of the dataset with link to main source.
 
 ### Covariates
 
