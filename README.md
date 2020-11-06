@@ -16,6 +16,8 @@ other potential predictors.
 
 ### Covariates
 
+- Census Demographics found [here](https://www.census.gov/content/census/en/data/datasets/time-series/demo/popest/2010s-counties-detail.html)
+
 ### Mobility
 
 ### Policy
