@@ -5,6 +5,10 @@ other potential predictors.
 
 ## Sources
 
+### County Boundaries
+
+- PA Department of Transportation 2020 county boundries, via [Pennsylvania Spatial Data Access (PASDA)](https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=24)
+
 ### Cases
 
 - COVID-19 case data for PA by county via John's Hopkins University.  County cases for all of US found on [JHU Github](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv)
