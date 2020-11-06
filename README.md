@@ -5,9 +5,13 @@ other potential predictors.
 
 ## Sources
 
-### County Boundaries
+### Spatial Data
 
-- PA Department of Transportation 2020 county boundries, via [Pennsylvania Spatial Data Access (PASDA)](https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=24)
+- County boundaries - PA Department of Transportation 2020, via [Pennsylvania Spatial Data Access (PASDA)](https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=24)
+
+- Hospital locations via PASDA
+
+- Nursing home locations via PASDA
 
 ### Cases
 
