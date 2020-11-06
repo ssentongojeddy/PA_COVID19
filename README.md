@@ -15,7 +15,7 @@ other potential predictors.
 
 ### Cases
 
-- COVID-19 case data for PA by county via John's Hopkins University.  County cases for all of US found on [JHU Github](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv)
+- COVID-19 case data for PA by county via John's Hopkins University.  County cases for all of US found on [JHU github](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv)
 
 
 ### Covariates
@@ -25,5 +25,7 @@ other potential predictors.
 - Survey of mask use by county during the month of July 2020, via the [New York Times](https://github.com/nytimes/covid-19-data/tree/master/mask-use)
 
 ### Mobility
+
+- Descartes Labs cellphone mobility data: m50 - The median of the max-distance mobility for all samples in a county; m50_index - The percent of normal m50 in county, normalized to February 2020.  [Descartes Labs github](https://raw.githubusercontent.com/descarteslabs/DL-COVID-19/master/DL-us-m50_index.csv)
 
 ### Policy
