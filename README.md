@@ -17,6 +17,9 @@ other potential predictors.
 
 - COVID-19 case data for PA by county via John's Hopkins University.  County cases for all of US found on [JHU github](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv)
 
+### Testing and Hospitalization
+
+- Testing data as well as ICU headroom by county.  Register for an API key at [COVID Act Now](https://apidocs.covidactnow.org/access) and access county data using https://api.covidactnow.org/v2/counties.timeseries.csv?apiKey={yourKey}
 
 ### Covariates
 
