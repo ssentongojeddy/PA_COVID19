@@ -22,6 +22,8 @@ other potential predictors.
 
 - Census Demographics found [here](https://www.census.gov/content/census/en/data/datasets/time-series/demo/popest/2010s-counties-detail.html)
 
+- Survey of mask use by county during the month of July 2020, via the [New York Times](https://github.com/nytimes/covid-19-data/tree/master/mask-use)
+
 ### Mobility
 
 ### Policy
