@@ -1,2 +1,0 @@
-Descartes Labs m50 index
-https://raw.githubusercontent.com/descarteslabs/DL-COVID-19/master/DL-us-m50_index.csv
