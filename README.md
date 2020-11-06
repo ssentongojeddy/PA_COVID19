@@ -29,3 +29,5 @@ other potential predictors.
 - Descartes Labs cellphone mobility data: m50 - The median of the max-distance mobility for all samples in a county; m50_index - The percent of normal m50 in county, normalized to February 2020.  [Descartes Labs github](https://raw.githubusercontent.com/descarteslabs/DL-COVID-19/master/DL-us-m50_index.csv)
 
 ### Policy
+
+- Stay at home orders by county, through June 5.  (not actually sure where i got this from).
