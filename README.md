@@ -31,6 +31,8 @@ other potential predictors.
 
 - Descartes Labs cellphone mobility data: m50 - The median of the max-distance mobility for all samples in a county; m50_index - The percent of normal m50 in county, normalized to February 2020.  [Descartes Labs github](https://raw.githubusercontent.com/descarteslabs/DL-COVID-19/master/DL-us-m50_index.csv)
 
+- PlaceIQ Data: LEX: Among smartphones that pinged in a given county today, what share of those devices pinged in each county at least once during the previous 14 days?  These are large datafiles, and the folder contains a MATLAB code to read them in, reduce to PA only, and concatenate into a county x county x time matrix. [COVIDExposureIndices github](https://github.com/COVIDExposureIndices/COVIDExposureIndices/)
+
 ### Policy
 
 - Stay at home orders by county, through June 5.  (not actually sure where i got this from).
